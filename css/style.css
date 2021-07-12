@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Oswald&family=Sacramento&display=swap');
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h2 {
+  font-family: 'Amatic SC', cursive;
+}
+
+.container-fluid {
+  padding: 1% 15%
+}
+
+.card {
+  font-family: 'Oswald', sans-serif;
+}
+
+#brand {
+  font-family: 'Sacramento', cursive;
+  font-size: 180%;
+}
+
+#nav-bar {
+  font-family: 'Oswald', sans-serif;
+  font-size: 120%;
+}
